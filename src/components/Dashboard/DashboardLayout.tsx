@@ -1,4 +1,3 @@
-import React from 'react';
 import React, { useState } from 'react';
 import { SystemStatusBar } from './SystemStatusBar';
 import { AlertPanel } from './AlertPanel';

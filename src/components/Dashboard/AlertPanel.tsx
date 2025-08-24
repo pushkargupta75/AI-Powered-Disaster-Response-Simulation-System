@@ -1,7 +1,8 @@
 import React from 'react';
+import { formatDistanceToNow } from 'date-fns';
+import clsx from 'clsx';
 import { mockDisasterZones } from '../../services/mockData';
 import { DisasterZone } from '../../types';
-import { formatDistanceToNow } from 'date-fns';
 
 export const AlertPanel: React.FC = () => {
   const getSeverityColor = (severity: DisasterZone['severity']) => {

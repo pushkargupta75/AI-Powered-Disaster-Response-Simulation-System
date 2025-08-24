@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
+import { formatDistanceToNow } from 'date-fns';
+import clsx from 'clsx';
 import { mockEmergencyMessages } from '../../services/mockData';
 import { EmergencyMessage } from '../../types';
-import { formatDistanceToNow } from 'date-fns';
 
 export const MessagePanel: React.FC = () => {
   const [messages] = useState<EmergencyMessage[]>(mockEmergencyMessages);
