@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# AI-Powered-Disaster-Response-Simulation-System
+=======
+>>>>>>> 4f53e38 (initial commit)
 # AI-Powered Disaster Response Simulation System
 
 A comprehensive, full-stack machine learning system designed to simulate and optimize disaster response operations. This system integrates multiple AI domains to provide real-time, actionable intelligence for emergency responders and planners.
@@ -213,4 +219,9 @@ For questions and support, please open an issue in the GitHub repository or cont
 
 ---
 
+<<<<<<< HEAD
 **Built with ❤️ for emergency response and disaster management**
+=======
+**Built with ❤️ for emergency response and disaster management**
+>>>>>>> 37281ac (initial commit)
+>>>>>>> 4f53e38 (initial commit)
